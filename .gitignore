@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+*.keras
+*.h5
+
+# Dataset
+Rice_Leaf_AUG/
+archive.zip
+
+# Output Images (Optional - remove if you want to upload these)
+training_results.png
+sample_predictions.png
+
+# System
+.DS_Store
+Thumbs.db
+*.tmp
+*.zip*
