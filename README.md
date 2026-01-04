@@ -1,4 +1,4 @@
-# Paddy Crop Disease Detection Using Convolutional Neural Networks 
+# Paddy Crop Disease Detection Using Convolutional Neural Networks:  a deep learning framework for sustainable agriculture
 
 This repository contains the implementation of a deep learning–based image classification system for detecting diseases in paddy (rice) crops using Convolutional Neural Networks (CNNs).  
 The project aims to support precision agriculture by enabling early, automated identification of rice leaf diseases from images.
