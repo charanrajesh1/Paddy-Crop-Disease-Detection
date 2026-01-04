@@ -1,4 +1,4 @@
-# Paddy Crop Disease Detection
+# Paddy Crop Disease Detection using CNN: a deep learning framework for sustainable agriculture
 
 This project uses Deep Learning (TensorFlow/Keras) to detect and classify diseases in rice (paddy) crops from leaf images.
 
